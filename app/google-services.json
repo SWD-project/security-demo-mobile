@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "952088833548",
+    "project_id": "swd301-f24a9",
+    "storage_bucket": "swd301-f24a9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:952088833548:android:d3400faffa87dc4bbd8829",
+        "android_client_info": {
+          "package_name": "com.kiet.q2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "952088833548-15acanqb7oi6pqck47tcbuqpbjpumaej.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJJsVUAoiPDCsUj8E1tvXcjDUmhJbLSMY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "952088833548-15acanqb7oi6pqck47tcbuqpbjpumaej.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
